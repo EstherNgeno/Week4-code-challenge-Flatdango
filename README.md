@@ -3,7 +3,7 @@
 # Setup
 
 Open index.html in your browser.
-Run json-server --watch db.json to start the backend.
+Run npx json-server --watch db.json to start the backend.
 
 # Technology used
 
