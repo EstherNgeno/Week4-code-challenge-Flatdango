@@ -1,4 +1,4 @@
-const db = "db.json"
+const db = "http://localhost:3000/films"
 
 document.addEventListener("DOMContentLoaded", () => {
     getMovies();

@@ -62,11 +62,3 @@ body {
     transition: transform 0.5s;
     block-size: auto;
   }
-
-
-  ul li: hover{
-    transform: scale(1.1);
-    z-index: 100;
-    background: #25bcff;
-    box-shadow: 0 5px 25px rgba(0,0.0,.2)
-  }
